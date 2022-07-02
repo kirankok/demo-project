@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+body {
+  font-family: 'Roboto';
+}
+
+div {
+  background-color: lawngreen;
+}
+
+.add-to-cart-button {
+  background-color: #ff9f00;
+}
+
+.buy-now-button {
+  background-color: #FB631B;
+}
+
+button {
+  font-family: 'Roboto';
+  padding: 18px 8px;
+  border: none;
+  color: white;
+  border-radius: 3px;
+  width: 200px;
+  font-size: 16px;
+  font-weight: 500;
+}
